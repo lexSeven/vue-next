@@ -7745,6 +7745,11 @@ yargs@~3.10.0:
     decamelize "^1.0.0"
     window-size "0.1.0"
 
+yarn@^1.22.4:
+  version "1.22.4"
+  resolved "https://registry.npm.taobao.org/yarn/download/yarn-1.22.4.tgz#01c1197ca5b27f21edc8bc472cd4c8ce0e5a470e"
+  integrity sha1-AcEZfKWyfyHtyLxHLNTIzg5aRw4=
+
 yauzl@2.4.1:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/yauzl/-/yauzl-2.4.1.tgz#9528f442dab1b2284e58b4379bb194e22e0c4005"
