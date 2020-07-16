@@ -28,7 +28,9 @@ function compileToFunction(
   }
 
   if (template[0] === '#') {
-    const el = document.querySelector(template)
+
+    const el = document.querySelector(template);
+
     if (__DEV__ && !el) {
       warn(`Template element not found or is empty: ${template}`)
     }

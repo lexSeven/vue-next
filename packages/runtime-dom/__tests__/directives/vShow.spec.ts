@@ -124,4 +124,5 @@ describe('runtime-dom: v-show directive', () => {
     await nextTick()
     expect($div.style.display).toEqual('block')
   })
+
 })
